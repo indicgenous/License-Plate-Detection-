@@ -1,4 +1,5 @@
-Objective:- A Machine Learning Model that detects the Licence plate of vehicals using YOLO
+Objective:- A Machine Learning Model that detects the Licence plate of vehicals using YOLO          
+
 Dataset used -  https://www.kaggle.com/datasets/andrewmvd/car-plate-detection  
 Technology used - YOLOv8
 python libraries - cv2 , pytesseract 
